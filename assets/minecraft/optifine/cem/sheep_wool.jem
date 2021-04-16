@@ -1,0 +1,10 @@
+{
+	"credit": "Made by Nekzuris",
+    "models": [
+        {
+            "part": "head",
+            "model": "sheep_wool_face.jpm",
+            "attach": "true" 
+        }
+    ]
+}
