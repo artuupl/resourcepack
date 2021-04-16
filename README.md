@@ -12,8 +12,8 @@
 
 ## 🔗 Download
 
-- [Wersja 1.16](https://github.com/artuupl/resourcepacks/raw/main/Artuu%201.16.zip)
-- [Wersja 1.8](https://github.com/artuupl/resourcepacks/raw/main/Artuu%201.8.zip)
+- [For Minecraft version 1.16](https://github.com/artuupl/resourcepacks/raw/main/Artuu%201.16.zip)
+- [For Minecraft version 1.8](https://github.com/artuupl/resourcepacks/raw/main/Artuu%201.8.zip)
 
 ---
 
